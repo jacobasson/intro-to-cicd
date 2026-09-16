@@ -3,5 +3,4 @@ function sayHi(name) {
   return `Hello ${name}`
 }
 
-// Export the greeting function for use by the application and tests.
 module.exports = sayHi
